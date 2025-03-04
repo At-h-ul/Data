@@ -1,0 +1,4 @@
+District: EASTERN WEST KHASI HILLS
+Block: MAIRANG
+Village: DOMBAHKSEH
+Status: scraped

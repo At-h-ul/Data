@@ -1,0 +1,4 @@
+District: EASTERN WEST KHASI HILLS
+Block: MAIRANG
+Village: LANGTOR
+Status: scraped

@@ -1,0 +1,7 @@
+fastapi[standard]
+celery
+uvicorn
+sqlalchemy
+mysql-connector-python
+selenium
+webdriver-manager
